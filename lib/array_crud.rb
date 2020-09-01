@@ -3,7 +3,7 @@ def create_an_empty_array
 end
   
 def create_an_array
-  house_plants = Array.new(4)
+  house_plants = ["fern", "pothos", "aloe", "ficus"]
 end
 
 def add_element_to_end_of_array(array, element)
